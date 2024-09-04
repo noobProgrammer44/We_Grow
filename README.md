@@ -21,6 +21,6 @@ click-through rate, to provide insights on how viewers are interacting with the 
 to provide recommendations for improving engagement and viewer retention.
 5. Customized Recommendations: Generate personalized recommendations based on the 
 YouTuber's video history, audience, and content preferences.
-6. Analytics Dashboard: Provide a comprehensive analytics dashboard that presents all 
+6. Analytics Dashboard: Provided a comprehensive analytics dashboard that presents all 
 relevant information in one place, allowing YouTubers to quickly assess the performance of 
 their channel and individual videos.

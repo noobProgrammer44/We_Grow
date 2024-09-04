@@ -24,10 +24,3 @@ YouTuber's video history, audience, and content preferences.
 6. Analytics Dashboard: Provide a comprehensive analytics dashboard that presents all 
 relevant information in one place, allowing YouTubers to quickly assess the performance of 
 their channel and individual videos.
-Deliverables:
-1. demonstrating its core features and functionality. The prototype should be able to analyze 
-videos, provide recommendations, and generate insights based on data analysis.
-2. User Guide: The third deliverable would be a user guide that outlines how to use the tool 
-effectively, including how to upload videos, analyze results, and interpret recommendations. 
-The guide should also provide best practices for video optimization and insights on how to 
-leverage the tool to improve video performance
